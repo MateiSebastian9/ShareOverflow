@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "733332424295",
+    "project_id": "adobe23-b67be",
+    "storage_bucket": "adobe23-b67be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733332424295:android:fe2f1b36536e43679576c2",
+        "android_client_info": {
+          "package_name": "com.example.adobecontest23"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT6IVhZNM4QoGqs49H-rYW3oVZ0IFDXyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
